@@ -1,4 +1,4 @@
-ddm (0.4.0) unstable; urgency=medium
+ddm (0.4.0.2) unstable; urgency=medium
 
   * feat: store logind session id as string instead of int
   * fix: correct D-Bus policy attribute from group to context
