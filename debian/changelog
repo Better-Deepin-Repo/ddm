@@ -1,4 +1,4 @@
-ddm (0.5.0) unstable; urgency=medium
+ddm (0.5.0.1) unstable; urgency=medium
 
   * fix: restore sessions before showing the greeter
   * fix: add login.defs to Build-Depends for cmake UID detection
